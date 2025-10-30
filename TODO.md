@@ -1,0 +1,4 @@
+- [x] Fix undefined FilterOption in ftlmentalhealth/lib/screens/resource_list_screen_new.dart by prefixing with models.
+- [x] Replace deprecated 'value' with 'initialValue' in DropdownButtonFormField in ftlmentalhealth/lib/screens/resource_list_screen_new.dart
+- [x] Replace deprecated 'value' with 'initialValue' in DropdownButtonFormField in ftlmentalhealth/lib/screens/resource_list_screen.dart
+- [x] Run flutter analyze to verify fixes
