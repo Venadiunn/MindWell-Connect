@@ -1,0 +1,32 @@
+[
+{
+"tags": "undefined",
+"religious": false,
+"linkTitle": "1(877) 726-4727",
+"title": "SAMHSA Treatment Referral",
+"RID": "00001",
+"category": "General",
+"linkURL": "tel:18777264727",
+"filter": "Phone",
+"description": "Helpline: Treatment referral and information service (English/Spanish) for those facing mental and/or substance use disorders.\n(24/7)"
+},
+{
+"title": "American Chronic Pain Association",
+"filter": "Phone",
+"RID": "00005",
+"description": "Helpline: Provides peer support, educational information, and treatment referral for individuals and families with chronic pain",
+"linkTitle": "1(800) 533-3231",
+"category": "PainIllness",
+"linkURL": "tel:18005333231",
+"tags": "undefined"
+},
+{
+"description": "Website: Provides information related to youth mental and physical health in LGBTQI+ communities",
+"title": "LGBT+ Youth Mental/Physical Health",
+"linkURL": "https://www.cdc.gov/lgbthealth/youth.htm",
+"linkTitle": "CDC LGBT+",
+"RID": "00006",
+"tags": "lesbian gay bisexual transgender",
+"category": "LGBTQI",
+"filter": "LearnAbout"
+}]
