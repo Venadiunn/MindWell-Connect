@@ -57,35 +57,52 @@ In addition to its curated resource library, MindWell Connect includes *Lotus*, 
 
 ## Setup and Installation
 
-### **1. Clone the repository**
+Setup and Installation
 
-To run this project locally:
+To set up this project locally:
 
-1. Clone the repository
-git clone https://github.com/Venadiunn/MindWell-Connect.git
+1. Clone the repository:
+    ```
+    git clone https://github.com/Venadiunn/MindWell-Connect.git
+    ```
 
-2. Navigate into the project directory
-cd MindWell-Connect
+3. Navigate to the project directory:
+    ```
+    cd MindWell-Connect
+    ```
+4. Install dependencies:
+   ```
+   flutter pub get
+    ```
 
-3. Install dependencies
-flutter pub get
-
-4. (Optional) Configure AI backend
-If using Lotus AI with an external LLM API:
-- Create a config.dart or use environment variables
-- Include
+6. (Optional) Configure AI backend:
+Create a config.dart file or use environment variables, then include the following:
+    ```
     const String apiKey = "YOUR_API_KEY";
     const String modelEndpoint = "YOUR_ENDPOINT_URL";
+    ```
 
-5. Run the app
-flutter run
+5. Run the app:
+   ```
+    flutter run
+    ```
 
-6. Build for release
-flutter build apk       # Android  
-flutter build ios       # iOS  
-flutter build web       # Web
+7. Build for release:
 
-Usage Instructions
+Android:
+    ```
+    flutter build apk
+    ```
+iOS:
+    ```
+    flutter build ios
+    ```
+Web:
+    ```
+    flutter build web
+    ```
+
+## Usage Instructions
 Accessing the App
 - Navigate through the home screen to browse categories
 - Tap on any resource to view details and launch its contact method
