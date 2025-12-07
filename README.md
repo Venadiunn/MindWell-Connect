@@ -9,14 +9,10 @@
 - [Usage Instructions](#usage-instructions)
 - [License](#license)
 
----
-
 ## Project Overview
 MindWell Connect is a cross-platform Flutter application designed to make mental-health support more accessible for teens and young adults. The app centralizes hundreds of verified mental-health resources—including crisis lines, youth programs, chat/text services, and education tools—into one easy-to-navigate interface.
 
 In addition to its curated resource library, MindWell Connect includes *Lotus*, an integrated AI companion that guides users toward relevant support options and offers conversational assistance when they’re unsure where to start. The app was created for the Congressional App Challenge to improve clarity, accessibility, and safety in the mental-health resource landscape.
-
----
 
 ## Technologies Used
 - Flutter (Dart)
@@ -27,8 +23,6 @@ In addition to its curated resource library, MindWell Connect includes *Lotus*, 
 - Video Player
 - OpenRouter / LLM API Integration
 - Flutter build tools for iOS, Android, and Web
-
----
 
 ## Features
 
@@ -52,8 +46,6 @@ In addition to its curated resource library, MindWell Connect includes *Lotus*, 
 
 ### **Clean UI**
 - Category cards, inviting color palette, structured navigation
-
----
 
 ## Setup and Installation
 
@@ -117,6 +109,3 @@ Lotus AI Usage
 Managing Resources
 - Resource data is bundled locally in localResources within main.dart
 - Developers can add or modify entries by editing the dataset
-
-License
-This project is licensed under the MIT License — see the LICENSE file for details.
